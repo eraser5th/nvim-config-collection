@@ -1,0 +1,1 @@
+/Users/katotake/dotfiles/.config/ginit.vim
